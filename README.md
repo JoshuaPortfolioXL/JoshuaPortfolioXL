@@ -194,16 +194,16 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=JoshuaJuliasse&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+</p>
 
+<p align="center">
   <img 
-    align="left" 
     alt="Linguagens mais usadas" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaJuliasse&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
