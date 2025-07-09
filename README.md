@@ -33,6 +33,38 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 ---
 
+---
+
+### 📘 Estudo e Aprendizado
+
+<img 
+    align="left" 
+    alt="Cisco Networking Academy" 
+    title="Cisco Networking Academy (Curso de Analista de Cibersegurança)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/cisco/1BA0D7" 
+/>
+<img 
+    align="left" 
+    alt="Coursera" 
+    title="Coursera (Cursos Google, Cybersecurity, etc.)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/coursera/0056D2" 
+/>
+<img 
+    align="left" 
+    alt="Duolingo" 
+    title="Duolingo (Estudo contínuo de inglês técnico)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/duolingo/58CC02" 
+/>
+
+<br/><br/>
+
+
 ### 🔐 Ferramentas e Tecnologias de Cibersegurança
 
 <img 
@@ -109,11 +141,11 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 />
 <img 
     align="left" 
-    alt="Cisco" 
-    title="Cisco Networking" 
+    alt="Packet Tracer" 
+    title="Packet Tracer (Simulação de Topologias de Rede)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/cisco/1BA0D7" 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_Packet_Tracer_Icon.svg" 
 />
 <img 
     align="left" 
