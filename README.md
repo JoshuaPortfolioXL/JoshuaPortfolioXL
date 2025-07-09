@@ -105,7 +105,7 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     title="Microsoft Excel (Dashboards, Análise)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" 
+    src="![image](https://github.com/user-attachments/assets/1ebdd1d9-15c3-4b46-9475-16a3cd559453)" 
 />
 <img 
     align="left" 
