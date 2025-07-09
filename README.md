@@ -73,7 +73,7 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     title="Microsoft Excel (Dashboards, Análise)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/microsoftexcel/217346" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" 
 />
 <img 
     align="left" 
