@@ -145,7 +145,7 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     title="Packet Tracer (Simulação de Topologias de Rede)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_Packet_Tracer_Icon.svg" 
+    src="file:///C:/Users/joshu/Downloads/icon%20pt.svg" 
 />
 <img 
     align="left" 
