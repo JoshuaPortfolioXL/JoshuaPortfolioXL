@@ -43,7 +43,7 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 ---
 
-<h2>📑 Certificados:</h2>
+<h2>📑 <a href="https://github.com/JoshuaPortfolioXL/Certificados#readme" target="_blank">Certificados</a>
 
 Aqui estão alguns dos meus certificados profissionais:
 
@@ -54,6 +54,8 @@ Aqui estão alguns dos meus certificados profissionais:
 
 📜 <strong>Segurança de Endpoint</strong> – Cisco Networking Academy / Serviço Nacional de Aprendizagem Comercial (SENAC)  
 🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Seguran%C3%A7a%20de%20endpoint%20SENAC.pdf" target="_blank">Acesse o certificado completo</a>
+
+<br/>
 
 <br/><br/>
 
