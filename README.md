@@ -47,7 +47,7 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 Aqui estão alguns dos meus certificados profissionais:
 
-📜 **Defesa de Rede – Cisco Networking Academy / IME**  
+📜 **Defesa de Rede – Cisco Networking Academy / Insituto Militar de Engenharia IME**  
 🔗 [Acesse o certificado completo](https://github.com/JoshuaPortfolioXL/Certificados#readme)
 
 <br/><br/>
