@@ -63,7 +63,6 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SQL" 
@@ -71,8 +70,6 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
 />
 <img 
     align="left" 
@@ -82,7 +79,6 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/splunk/000000" 
 />
-
 <img 
     align="left" 
     alt="Wireshark" 
@@ -91,7 +87,6 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/wireshark/1679A7" 
 />
-
 <img 
     align="left" 
     alt="VS Code" 
@@ -100,7 +95,6 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
-
 <br/><br/>
 
 <h2>📺 YouTube Playlists</h2>
