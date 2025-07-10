@@ -44,6 +44,7 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 ---
 
 <h2>📑 Certificados:</h2>
+
 Aqui estão alguns dos meus certificados profissionais:
 
 📜 **Defesa de Rede – Cisco Networking Academy / IME**  
