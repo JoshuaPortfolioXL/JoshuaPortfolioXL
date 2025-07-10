@@ -46,12 +46,12 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 <h2>📑 Certificados:</h2>
 
 
----
+<br/><br/>
 
 <h2>👨‍💻 Projetos de Cibersegurança:</h2>
 
 
----
+<br/><br/>
 
 ### 🛠️ Ferramentas - Cibersegurança
 
@@ -101,14 +101,13 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
-
----
+<br/><br/>
 
 <h2>📺 YouTube Playlists</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
----
+<br/><br/>
 
 <h2> 🤳 Connect with me:</h2>
 
