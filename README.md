@@ -47,8 +47,13 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 Aqui estão alguns dos meus certificados profissionais:
 
-📜 **Defesa de Rede – Cisco Networking Academy / Insituto Militar de Engenharia IME**  
-🔗 [Acesse o certificado completo](https://github.com/JoshuaPortfolioXL/Certificados#readme)
+📜 <strong>Defesa de Rede</strong> – Cisco Networking Academy / Instituto Militar de Engenharia (IME)  
+🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados#readme" target="_blank">Acesse o certificado completo</a>
+
+<br/>
+
+📜 <strong>Segurança de Endpoint</strong> – Cisco Networking Academy / Serviço Nacional de Aprendizagem Comercial (SENAC)  
+🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Seguran%C3%A7a%20de%20endpoint%20SENAC.pdf?raw=true" target="_blank">Acesse o certificado completo</a>
 
 <br/><br/>
 
