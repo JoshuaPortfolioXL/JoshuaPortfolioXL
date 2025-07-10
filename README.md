@@ -109,15 +109,18 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 <br/><br/>
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me
 
-[<img align="left" alt="JoshuaJuliasse | YouTube" width="22px" src="" />][youtube]
-[<img align="left" alt="JoshuaJuliasse | LinkedIn" width="22px" src="https://www.linkedin.com/in/joshua-juliasse-2762ba209/" />][linkedin]
-[<img align="left" alt="JoshuaJuliasse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
-[linkedin]: https://www.linkedin.com/in/joshua-juliasse-2762ba209/
+<br/><br/>
+
+[youtube]: https://www.youtube.com/c/joshmadakor  
+[linkedin]: https://www.linkedin.com/in/joshua-juliasse-2762ba209/  
+[instagram]: https://www.instagram.com/seu_usuario_aqui
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
