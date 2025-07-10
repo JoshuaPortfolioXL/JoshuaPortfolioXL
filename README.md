@@ -53,7 +53,7 @@ Aqui estão alguns dos meus certificados profissionais:
 <br/>
 
 📜 <strong>Segurança de Endpoint</strong> – Cisco Networking Academy / Serviço Nacional de Aprendizagem Comercial (SENAC)  
-🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Seguran%C3%A7a%20de%20endpoint%20SENAC.pdf?raw=true" target="_blank">Acesse o certificado completo</a>
+🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Seguran%C3%A7a%20de%20endpoint%20SENAC.pdf" target="_blank">Acesse o certificado completo</a>
 
 <br/><br/>
 
