@@ -47,13 +47,15 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 Aqui estão alguns dos meus certificados profissionais:
 
-📜 <strong>Defesa de Rede</strong> – Cisco Networking Academy / Instituto Militar de Engenharia (IME)  
-🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Defesa-de-Rede-IME-2025.pdf" target="_blank">Acesse o certificado completo</a>
-
 <br/>
 
 📜 <strong>Certificado Profissional: Analista Júnior de Cibersegurança</strong> – Coursera / Google  
 🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Google%20Cybersecurity%20Professional%20Certificate%20V2.pdf" target="_blank">Acesse o certificado completo</a>
+
+<br/>
+
+📜 <strong>Defesa de Rede</strong> – Cisco Networking Academy / Instituto Militar de Engenharia (IME)  
+🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Defesa-de-Rede-IME-2025.pdf" target="_blank">Acesse o certificado completo</a>
 
 <br/>
 
