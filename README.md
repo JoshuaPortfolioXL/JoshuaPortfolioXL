@@ -55,6 +55,14 @@ Aqui estão alguns dos meus certificados profissionais:
 📜 <strong>Segurança de Endpoint</strong> – Cisco Networking Academy / Serviço Nacional de Aprendizagem Comercial (SENAC)  
 🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Seguran%C3%A7a%20de%20endpoint%20SENAC.pdf" target="_blank">Acesse o certificado completo</a>
 
+<br/>
+
+📜 <strong>Certificado Profissional: Analista Júnior de Cibersegurança</strong> – Coursera / Google  
+🔗 <a href="https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Google%20Cybersecurity%20Professional%20Certificate%20V2.pdf" target="_blank">Acesse o certificado completo</a>
+
+
+<br/>
+
 Veja todos os certificados neste repositório 👉 
 <a href="https://github.com/JoshuaPortfolioXL/Certificados#readme" target="_blank">github.com/JoshuaPortfolioXL/Certificados</a>
 
