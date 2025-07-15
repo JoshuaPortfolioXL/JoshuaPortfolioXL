@@ -12,7 +12,7 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
 
 ---
 
-### 📘 Estudo e Aprendizado
+### 📘 Plataformas de Aprendizado
 
 <img 
     align="left" 
