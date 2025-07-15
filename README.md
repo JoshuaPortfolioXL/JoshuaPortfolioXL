@@ -46,6 +46,14 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/JoshuaPortfolioXL/SVG-icons/main/codeiot-svg.png" 
 />
+<img 
+    align="left" 
+    alt="Seda College" 
+    title="Seda College (Curso de inglês e formação internacional)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/JoshuaPortfolioXL/SVG-icons/main/Seda%20college%20SVG.png" 
+/>
 
 <br/><br/>
 
@@ -84,6 +92,14 @@ Veja todos os certificados neste repositório 👉
 
 ### 🛠️ Ferramentas - Cibersegurança
 
+<img 
+    align="left" 
+    alt="Cisco Packet Tracer" 
+    title="Cisco Packet Tracer (Simulador de redes da Cisco)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/JoshuaPortfolioXL/SVG-icons/main/icon%20pt.png" 
+/>
 <img 
     align="left" 
     alt="Python" 
