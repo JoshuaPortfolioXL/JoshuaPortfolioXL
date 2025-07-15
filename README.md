@@ -38,6 +38,14 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/duolingo/58CC02" 
 />
+<img 
+    align="left" 
+    alt="CodeIoT" 
+    title="CodeIoT (Plataforma de cursos gratuitos em IoT, Python, etc.)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/JoshuaPortfolioXL/SVG-icons/main/codeiot-svg.png" 
+/>
 
 <br/><br/>
 
