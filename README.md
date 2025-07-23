@@ -145,13 +145,13 @@ Veja todos os certificados neste repositório 👉
 
 ## 🤳 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshua_juliass3?igsh=a213NzE4OTd2bWVo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-juliasse-2762ba209/)
 
 <br/><br/>
 
 [linkedin]: https://www.linkedin.com/in/joshua-juliasse-2762ba209/  
-[instagram]: https://www.instagram.com/https://www.instagram.com/joshua_juliass3?igsh=a213NzE4OTd2bWVo
+[instagram]: https://www.instagram.com/joshua_juliass3?igsh=a213NzE4OTd2bWVo
 
 
 <!--
