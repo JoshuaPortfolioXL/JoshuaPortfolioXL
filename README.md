@@ -156,7 +156,6 @@ Veja todos os certificados neste repositório 👉
 
 <br/><br/>
 
-[youtube]: https://www.youtube.com/c/joshmadakor  
 [linkedin]: https://www.linkedin.com/in/joshua-juliasse-2762ba209/  
 [instagram]: https://www.instagram.com/seu_usuario_aqui
 
