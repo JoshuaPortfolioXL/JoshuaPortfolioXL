@@ -2,7 +2,7 @@
 
 **`Analista Júnior de Cibersegurança`**
 
-Sou estudante de **Tecnologia em Cibersegurança** no Centro Universitário Anhanguera, onde venho desenvolvendo sólidos conhecimentos em áreas fundamentais como Segurança da Informação e Redes, Segurança em Engenharia de Software, Arquitetura de Redes e Programação e Desenvolvimento de Banco de Dados.
+Sou estudante de **Tecnologia em Cibersegurança** no Centro Universitário Anhanguera, onde venho desenvolvendo sólidos conhecimentos em áreas fundamentais como Segurança da Informação e Redes, Segurança em Engenharia de Software, Arquitetura de Redes, Programação e Desenvolvimento de Banco de Dados.
 
 Além disso, estou aprimorando minhas habilidades técnicas por meio do curso de **Analista de Cibersegurança da CISCO**, no qual já concluí os módulos de *Introdução à Cibersegurança* e *Conceitos Básicos de Redes*. Atualmente, estou aprofundando meu aprendizado em *Dispositivos de Rede e Configuração Inicial*, com certificação prevista ao final do curso.
 
