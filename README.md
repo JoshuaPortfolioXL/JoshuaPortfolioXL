@@ -151,7 +151,7 @@ Veja todos os certificados neste repositório 👉
 <br/><br/>
 
 [linkedin]: https://www.linkedin.com/in/joshua-juliasse-2762ba209/  
-[instagram]: https://www.instagram.com/seu_usuario_aqui
+[instagram]: https://www.instagram.com/https://www.instagram.com/joshua_juliass3?igsh=a213NzE4OTd2bWVo
 
 
 <!--
