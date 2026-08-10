@@ -87,6 +87,8 @@ Veja todos os certificados neste repositório 👉
 
 <h2>👨‍💻 Laboratórios Práticos:</h2>
 
+Veja todos os laboratórios práticos 👉 
+<a href="https://github.com/JoshuaPortfolioXL/Certificados#readme" target="_blank">github.com/JoshuaPortfolioXL/Certificados</a>
 
 <br/><br/>
 
