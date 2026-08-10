@@ -85,7 +85,7 @@ Veja todos os certificados neste repositório 👉
 
 <br/><br/>
 
-<h2>👨‍💻 Projetos de Cibersegurança:</h2>
+<h2>👨‍💻 Laboratórios Práticos:</h2>
 
 
 <br/><br/>
