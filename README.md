@@ -2,9 +2,10 @@
 
 **`Analista Júnior de Cibersegurança`**
 
-Sou estudante de **Tecnologia em Cibersegurança** no Centro Universitário Anhanguera, onde venho desenvolvendo sólidos conhecimentos em áreas fundamentais como Segurança da Informação e Redes, por meio de monitoramento e triagem de logs, investigação de pacotes ...   
+Sou graduado em **Tecnologia em Cibersegurança** no Centro Universitário Anhanguera, onde desenvolvi sólidos conhecimentos sobre frameworks de segurança, analise de pacotes, logs, triagem de alertas de operações de SOC.
    
-Além disso, estou aprimorando minhas habilidades técnicas por meio do curso de **Analista de Cibersegurança da CISCO**, no qual já obtive certificações renomadas da área como **CCNA** e o **EC-Council Ethical Hacker**.   
+Além disso, estou constantemente aprimorando minhas habilidades técnicas por meio do cursos oferecidos por instituições renomadas como a Cisco Networking Academy, Coursera, CodeIOT e outros;
+Os quais obtive certificações renomadas da área como **CCNA** e o **EC-Council Ethical Hacker**.   
    
 Busco uma oportunidade para aplicar meus conhecimentos na indústria , evoluir 
 profissionalmente e agregar valor ao mercado corporativo, contribuindo para a proteção de 
