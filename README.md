@@ -59,6 +59,15 @@ Estou motivado a contribuir com empresas e projetos que valorizem a segurança d
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/JoshuaPortfolioXL/SVG-icons/main/Seda%20college%20SVG.png" 
 />
+<img 
+    align="left" 
+    alt="Anhenguera educacional" 
+    title="Anhanguera (Cursos de graduação Cybersecurity)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/JoshuaPortfolioXL/SVG-icons/blob/main/Anhanguera%20SVG%202.png" 
+/>
+
 
 <br/><br/>
 
