@@ -2,13 +2,17 @@
 
 **`Analista Júnior de Cibersegurança`**
 
-Sou estudante de **Tecnologia em Cibersegurança** no Centro Universitário Anhanguera, onde venho desenvolvendo sólidos conhecimentos em áreas fundamentais como Segurança da Informação e Redes, Segurança em Engenharia de Software, Arquitetura de Redes, Programação e Desenvolvimento de Banco de Dados.
+Sou estudante de **Tecnologia em Cibersegurança** no Centro Universitário Anhanguera, onde venho desenvolvendo sólidos conhecimentos em áreas fundamentais como Segurança da Informação e Redes, por meio de monitoramento e triagem de logs, investigação de pacotes ...   
+   
+Além disso, estou aprimorando minhas habilidades técnicas por meio do curso de **Analista de Cibersegurança da CISCO**, no qual já obtive certificações renomadas da área como **CCNA** e o **EC-Council Ethical Hacker**.   
+   
+Busco uma oportunidade para aplicar meus conhecimentos na indústria , evoluir 
+profissionalmente e agregar valor ao mercado corporativo, contribuindo para a proteção de 
+sistemas e dados sensíveis.  
+   
+Meu foco está em aplicar esses conhecimentos para solucionar desafios reais na área de **Analista Júnior** / **SOC L1**. Tenho experiência acadêmica na análise e desenvolvimento de soluções seguras, bem como em boas práticas de governança de segurança e proteção de dados.   
 
-Além disso, estou aprimorando minhas habilidades técnicas por meio do curso de **Analista de Cibersegurança da CISCO**, no qual já concluí os módulos de *Introdução à Cibersegurança* e *Conceitos Básicos de Redes*. Atualmente, estou aprofundando meu aprendizado em *Dispositivos de Rede e Configuração Inicial*, com certificação prevista ao final do curso.
-
-Meu foco está em aplicar esses conhecimentos para solucionar desafios reais na área de **Analista Júnior**. Tenho experiência acadêmica na análise e desenvolvimento de soluções seguras, bem como em boas práticas de governança de segurança e proteção de dados.
-
-Estou motivado a contribuir com empresas e projetos que valorizem a segurança da informação, trazendo uma abordagem **analítica, ética e prática** para proteger sistemas e redes contra ameaças cibernéticas.
+Estou motivado a contribuir com empresas e projetos que valorizem a segurança da informação, trazendo uma abordagem **analítica, ética e prática** para proteger sistemas e redes contra ameaças cibernéticas.   
 
 ---
 
